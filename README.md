@@ -1,5 +1,5 @@
 # A-B_test
-**A/B Test analysis in retail**
+**Data-driven business decision making**
 
 **Цель проекта**: увеличение выручки интернет-магазина.
 
