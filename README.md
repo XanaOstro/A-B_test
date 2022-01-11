@@ -1,42 +1,11 @@
 # A-B_test
 **Data-driven business decision making**
 
-**Цель проекта**: увеличение выручки интернет-магазина.
+**Project goal**: increasing the the online store revenue.
 
-**Задачи проекта**: приоритизация гипотез, запуск A/B-теста и анализ его результатов.
+**Project objectives**: prioritize hypotheses, launch an A / B test and analyze its results.
 
-**Используемые библиотеки**: pandas, datime, numpy, ststs, seaborn, matplotlib
+**Used libraries**: pandas, datime, numpy, ststs, seaborn, matplotlib
 
-**Описание данных**:
 
-*Данные для первой части*
-
-Hypothesis — краткое описание гипотезы;
-
-Reach — охват пользователей по 10-балльной шкале;
-
-Impact — влияние на пользователей по 10-балльной шкале;
-
-Confidence — уверенность в гипотезе по 10-балльной шкале;
-
-Efforts — затраты ресурсов на проверку гипотезы по 10-балльной шкале. Чем больше значение Efforts, тем дороже проверка гипотезы.
-
-*Данные для второй части*
-
-transactionId — идентификатор заказа;
-
-visitorId — идентификатор пользователя, совершившего заказ;
-
-date — дата, когда был совершён заказ;
-
-revenue — выручка заказа;
-
-group — группа A/B-теста, в которую попал заказ.
-
-date — дата;
-
-group — группа A/B-теста;
-
-visitors — количество пользователей в указанную дату в указанной группе A/B-теста
-
-**Данные предоставлены**: Practicum by Yandex
+**Data provided**: Practicum by Yandex
